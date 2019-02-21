@@ -116,12 +116,12 @@
 								</article>
 								<article class="style2">
 									<span class="image">
-										<img src="images/pic07.jpg" alt="" />
+										<img src="/images/HuntingRifleSnipe.jpg" alt="" />
 									</span>
-									<a target="_blank" href="/comingSoon.php">
-										<h2>Coming Soon</h2>
+									<a target="_blank" href="/clips/HuntingRifleSnipe.mp4">
+										<h2>Hunting Rifle Snipe</h2>
 										<div class="content">
-											<p></p>
+											<p>We hit those!</p>
 										</div>
 									</a>
 								</article>
